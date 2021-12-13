@@ -18,12 +18,6 @@ object-assign
  * @license MIT
  */
 
-/** @license MUI v5.2.0
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
 /** @license React v0.20.2
  * scheduler.production.min.js
  *
@@ -102,3 +96,5 @@ object-assign
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+
+//! moment.js
